@@ -1,0 +1,113 @@
+=== TEST 1 ===
+Average number of contacts: 0.67
+Number of students from Skopje: 1
+
+=== TEST 2 ===
+Average number of contacts: 2.00
+Number of students from Bitola: 2
+
+=== TEST 3 ===
+Average number of contacts: 1.50
+Number of students from Stip: 1
+Average number of contacts: 1.50
+Number of students from Stip: 1
+Latest contact: 078/786-441 (VIP)
+
+=== TEST 4 ===
+Average number of contacts: 2.00
+Number of students from Bitola: 2
+Faculty: {"fakultet":"FINKI", "studenti":[{"ime":"Ema", "prezime":"Jovanova", "vozrast":29, "grad":"Bitola", "indeks":71449817, "telefonskiKontakti":["078/327-115", "076/927-126"], "emailKontakti":[]}, {"ime":"Filip", "prezime":"Petrov", "vozrast":24, "grad":"Bitola", "indeks":60872678, "telefonskiKontakti":["070/283-212"], "emailKontakti":["bndsljf@finki.ukim.mk"]}]}
+Student with most contacts: {"ime":"Ema", "prezime":"Jovanova", "vozrast":29, "grad":"Bitola", "indeks":71449817, "telefonskiKontakti":["078/327-115", "076/927-126"], "emailKontakti":[]}
+
+=== TEST 5 ===
+Latest contact: ysvpwlkxuagbb@yahoo.com
+Number of email and phone contacts: 6 3
+Comparing dates: true
+Latest contact: ysvpwlkxuagbb@yahoo.com
+Number of email and phone contacts: 6 4
+Comparing dates: false
+Average number of contacts: 6.33
+Number of students from Ohrid: 1
+Average number of contacts: 6.33
+Number of students from Ohrid: 1
+Average number of contacts: 6.33
+Number of students from Ohrid: 1
+Average number of contacts: 6.33
+Number of students from Ohrid: 1
+Average number of contacts: 6.67
+Number of students from Ohrid: 1
+Average number of contacts: 6.67
+Number of students from Ohrid: 1
+Faculty: {"fakultet":"FEIT", "studenti":[{"ime":"Stojan", "prezime":"Petrov", "vozrast":21, "grad":"Strumica", "indeks":34284261, "telefonskiKontakti":["071/589-923"], "emailKontakti":["zriircujqfiwf@finki.ukim.mk", "ssecdsuu@cs.org.mk", "bjeidbsrosignbi@yahoo.com", "dbbkhilvgrklf@finki.ukim.mk", "itpwbn@finki.ukim.mk"]}, {"ime":"Ina", "prezime":"Jovanova", "vozrast":25, "grad":"Stip", "indeks":39359326, "telefonskiKontakti":["078/762-239", "071/113-975", "078/331-265"], "emailKontakti":["bfknhpcejny@gmail.com", "tpzypzoxp@hotmail.com", "tfybkpkqpjuvsna@yahoo.com"]}, {"ime":"Sanja", "prezime":"Jovanova", "vozrast":22, "grad":"Ohrid", "indeks":94640743, "telefonskiKontakti":["071/760-859", "075/446-731", "077/005-918", "078/394-934"], "emailKontakti":["wnqhbi@finki.ukim.mk", "qxuonzbnb@gmail.com", "ysvpwlkxuagbb@yahoo.com", "yhmnhrsgd@cs.org.mk", "eivthhzggrenmcj@yahoo.com", "vchmhryaytc@yahoo.com"]}]}
+Student with most contacts: {"ime":"Sanja", "prezime":"Jovanova", "vozrast":22, "grad":"Ohrid", "indeks":94640743, "telefonskiKontakti":["071/760-859", "075/446-731", "077/005-918", "078/394-934"], "emailKontakti":["wnqhbi@finki.ukim.mk", "qxuonzbnb@gmail.com", "ysvpwlkxuagbb@yahoo.com", "yhmnhrsgd@cs.org.mk", "eivthhzggrenmcj@yahoo.com", "vchmhryaytc@yahoo.com"]}
+
+=== TEST 6 ===
+Average number of contacts: 5.33
+Number of students from Strumica: 1
+Average number of contacts: 5.67
+Number of students from Strumica: 1
+Latest contact: 076/057-448 (ONE)
+Number of email and phone contacts: 2 4
+Comparing dates: false
+Latest contact: 076/057-448 (ONE)
+Number of email and phone contacts: 2 4
+Comparing dates: true
+Latest contact: hzmhamihjyf@cs.org.mk
+Number of email and phone contacts: 4 4
+Comparing dates: true
+Average number of contacts: 7.00
+Number of students from Stip: 1
+Average number of contacts: 7.33
+Number of students from Skopje: 1
+Average number of contacts: 7.33
+Number of students from Skopje: 1
+Faculty: {"fakultet":"FINKI", "studenti":[{"ime":"Sanja", "prezime":"Trajkova", "vozrast":29, "grad":"Stip", "indeks":93245091, "telefonskiKontakti":["070/399-762", "077/850-741", "075/915-241", "078/187-757"], "emailKontakti":["crxkpbsn@yahoo.com", "ueyjikz@cs.org.mk", "hzmhamihjyf@cs.org.mk", "maldkektkff@cs.org.mk"]}, {"ime":"Petar", "prezime":"Petrov", "vozrast":29, "grad":"Strumica", "indeks":81460497, "telefonskiKontakti":["070/748-540", "071/521-435", "076/057-448", "077/341-394"], "emailKontakti":["oxaazbvw@gmail.com", "bvmriiamvibscw@finki.ukim.mk"]}, {"ime":"Mile", "prezime":"Jovanov", "vozrast":24, "grad":"Skopje", "indeks":81974965, "telefonskiKontakti":["078/186-236", "077/524-486", "077/848-344", "077/428-158", "075/905-387", "071/160-774"], "emailKontakti":["eikyqppxexavtua@gmail.com", "rpzdnz@hotmail.com", "qtyagx@finki.ukim.mk"]}]}
+Student with most contacts: {"ime":"Mile", "prezime":"Jovanov", "vozrast":24, "grad":"Skopje", "indeks":81974965, "telefonskiKontakti":["078/186-236", "077/524-486", "077/848-344", "077/428-158", "075/905-387", "071/160-774"], "emailKontakti":["eikyqppxexavtua@gmail.com", "rpzdnz@hotmail.com", "qtyagx@finki.ukim.mk"]}
+
+=== TEST 7 ===
+Latest contact: 070/034-511 (TMOBILE)
+Number of email and phone contacts: 1 2
+Comparing dates: false
+Latest contact: 077/547-726 (VIP)
+Number of email and phone contacts: 1 2
+Comparing dates: true
+Latest contact: tqflgvnlneil@gmail.com
+Number of email and phone contacts: 3 1
+Comparing dates: true
+Average number of contacts: 3.71
+Number of students from Bitola: 1
+Average number of contacts: 3.71
+Number of students from Bitola: 1
+Faculty: {"fakultet":"FINKI", "studenti":[{"ime":"Petar", "prezime":"Jovanov", "vozrast":25, "grad":"Bitola", "indeks":17996023, "telefonskiKontakti":["076/329-291", "071/015-129"], "emailKontakti":["gfdqphpeqcgioxk@gmail.com", "qubhmlupjjn@finki.ukim.mk", "tqflgvnlneil@gmail.com", "dkedtqdoy@gmail.com"]}, {"ime":"Marko", "prezime":"Nikolov", "vozrast":19, "grad":"Stip", "indeks":9328607, "telefonskiKontakti":["071/160-503", "075/499-257"], "emailKontakti":[]}, {"ime":"Sanja", "prezime":"Trajanova", "vozrast":29, "grad":"Strumica", "indeks":16214624, "telefonskiKontakti":[], "emailKontakti":["ovjxtrcaiaywpdx@yahoo.com", "possqv@finki.ukim.mk"]}, {"ime":"Marija", "prezime":"Mihova", "vozrast":23, "grad":"Skopje", "indeks":64218237, "telefonskiKontakti":["075/832-018", "076/118-586"], "emailKontakti":["tejqz@cs.org.mk", "rggnkhja@cs.org.mk", "dvgvjgbuqk@hotmail.com"]}, {"ime":"Mile", "prezime":"Mihov", "vozrast":27, "grad":"Strumica", "indeks":59843963, "telefonskiKontakti":["075/980-283", "070/034-511"], "emailKontakti":["rrdaudzeupt@cs.org.mk"]}, {"ime":"Petar", "prezime":"Mihov", "vozrast":19, "grad":"Skopje", "indeks":90603182, "telefonskiKontakti":["071/664-073"], "emailKontakti":["aunnchamgpq@cs.org.mk", "amsdkofr@gmail.com", "pvqfsqggbw@hotmail.com", "bkbfu@gmail.com"]}, {"ime":"Filip", "prezime":"Trajanov", "vozrast":19, "grad":"Skopje", "indeks":62887393, "telefonskiKontakti":["071/564-046", "077/547-726"], "emailKontakti":["vckqbsiegewejp@finki.ukim.mk"]}]}
+Student with most contacts: {"ime":"Petar", "prezime":"Jovanov", "vozrast":25, "grad":"Bitola", "indeks":17996023, "telefonskiKontakti":["076/329-291", "071/015-129"], "emailKontakti":["gfdqphpeqcgioxk@gmail.com", "qubhmlupjjn@finki.ukim.mk", "tqflgvnlneil@gmail.com", "dkedtqdoy@gmail.com"]}
+
+=== TEST 8 ===
+Latest contact: intcxudpngd@gmail.com
+Number of email and phone contacts: 3 1
+Comparing dates: true
+Average number of contacts: 2.83
+Number of students from Strumica: 2
+Average number of contacts: 3.00
+Number of students from Strumica: 2
+Latest contact: bnfavoejmn@gmail.com
+Number of email and phone contacts: 3 2
+Comparing dates: true
+Latest contact: bnfavoejmn@gmail.com
+Number of email and phone contacts: 3 2
+Comparing dates: false
+Latest contact: bnfavoejmn@gmail.com
+Number of email and phone contacts: 3 2
+Comparing dates: false
+Average number of contacts: 3.33
+Number of students from Skopje: 1
+Latest contact: 076/347-196 (ONE)
+Number of email and phone contacts: 3 2
+Comparing dates: false
+Latest contact: 076/347-196 (ONE)
+Number of email and phone contacts: 3 2
+Comparing dates: false
+Latest contact: 076/347-196 (ONE)
+Number of email and phone contacts: 3 2
+Comparing dates: false
+Faculty: {"fakultet":"Mashinski fakultet", "studenti":[{"ime":"Mile", "prezime":"Mihov", "vozrast":27, "grad":"Strumica", "indeks":55510425, "telefonskiKontakti":["077/022-390"], "emailKontakti":["keegbiyauv@gmail.com", "rzskbqowyz@yahoo.com", "intcxudpngd@gmail.com", "ejntbkzovopk@yahoo.com"]}, {"ime":"Ema", "prezime":"Stankova", "vozrast":28, "grad":"Bitola", "indeks":751597, "telefonskiKontakti":["075/344-566", "076/347-196"], "emailKontakti":["ffrcoxhtbohvem@hotmail.com", "fklwyiasd@finki.ukim.mk", "bhenbmpozta@finki.ukim.mk"]}, {"ime":"Darko", "prezime":"Jovanov", "vozrast":28, "grad":"Strumica", "indeks":69275428, "telefonskiKontakti":[], "emailKontakti":["owjitkdldenwcjp@yahoo.com"]}, {"ime":"Emil", "prezime":"Stankov", "vozrast":25, "grad":"Skopje", "indeks":90022720, "telefonskiKontakti":["077/760-437", "075/463-312"], "emailKontakti":["rwyrsnhzl@gmail.com", "bnfavoejmn@gmail.com", "snmxjf@cs.org.mk"]}, {"ime":"Ina", "prezime":"Jovanova", "vozrast":24, "grad":"Ohrid", "indeks":76217637, "telefonskiKontakti":["075/928-956", "070/134-371", "071/288-093", "076/120-714"], "emailKontakti":["vibdqyunvikvzvc@hotmail.com"]}, {"ime":"Mile", "prezime":"Nikolov", "vozrast":26, "grad":"Bitola", "indeks":40740157, "telefonskiKontakti":["076/178-915", "070/652-108"], "emailKontakti":[]}]}
+Student with most contacts: {"ime":"Emil", "prezime":"Stankov", "vozrast":25, "grad":"Skopje", "indeks":90022720, "telefonskiKontakti":["077/760-437", "075/463-312"], "emailKontakti":["rwyrsnhzl@gmail.com", "bnfavoejmn@gmail.com", "snmxjf@cs.org.mk"]}

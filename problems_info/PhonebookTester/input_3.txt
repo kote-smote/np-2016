@@ -1,0 +1,12 @@
+test_usage
+add
+Andrej
+078654984
+print
+get_name
+Andrej
+get_number
+078
+remove
+Andrej
+print
